@@ -1,3 +1,3 @@
 import asyncio
-from open-gopro import WirelessGoPro
+from open_gopro import WirelessGoPro
 
