@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.goprovenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings except for settings.json
+.vscode/*
+!.vscode/settings.json
+
+# Ignore Python version file
+.python-version
